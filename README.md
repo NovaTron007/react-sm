@@ -1,3 +1,10 @@
+## Set Up
+
+- npx create-react-app react-sm
+- npm install @material-ui/core
+- npm install @material-ui/icons
+- npm install react-twitter-embed
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
