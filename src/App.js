@@ -1,0 +1,20 @@
+import React from "react";
+import "./App.css";
+import Sidebar from "./components/Sidebar";
+import Feed from "./components/Feed";
+import Widgets from "./components/Widgets";
+
+function App() {
+  return (
+    <div className="app">
+      {/* sidebar component */}
+      <Sidebar />
+      {/* Feed component */}
+      <Feed />
+      {/* Widget component */}
+      <Widgets />
+    </div>
+  );
+}
+
+export default App;
